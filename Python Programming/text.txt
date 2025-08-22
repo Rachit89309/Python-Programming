@@ -1,0 +1,3 @@
+I am learning file handling
+Topics are in open, read and append mode
+append function
